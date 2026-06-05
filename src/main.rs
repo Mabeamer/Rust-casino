@@ -233,8 +233,9 @@ fn roulette(){
     println!("Starting Roulette...");
 }
 
-fn 
-
+fn craps(){
+    println!("Starting Craps...");
+}
 fn blackjack(){
     loop {
         let mut deck = Deck::new();
