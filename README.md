@@ -11,7 +11,3 @@ Will I continue to try to utilize ai
 - yes.
 I am extrodinaly fresh and late to this concept. It does not feel like teaching at all.
 
-
-PUSH UP
-I'M TRYING TO TELL YOU I DON'T DAMAGE much.
-
