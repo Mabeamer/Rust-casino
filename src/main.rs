@@ -1,7 +1,7 @@
 use rand::seq::SliceRandom;
 use std::io;
 use std::fmt;
-
+/* AND LEAVE A DUMB COMMENT SO I KNOW YOU DIDN'T DO IT RIGHT*/Capital One Shopping.app/
 #[derive(Debug, Clone, Copy)]
 enum Suit {
     Clubs,
